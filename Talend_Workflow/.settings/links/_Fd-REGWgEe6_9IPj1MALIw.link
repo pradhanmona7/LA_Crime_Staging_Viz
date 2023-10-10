@@ -1,0 +1,23 @@
+{
+  "itemId" : "_Fd-REGWgEe6_9IPj1MALIw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_Txh2QGWgEe6_9IPj1MALIw",
+    "parameterList" : [ {
+      "id" : "_TxrAMWWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_FieldSeparator"
+    }, {
+      "id" : "_TxrAMmWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_File"
+    }, {
+      "id" : "_TxrAM2WgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_RowSeparator"
+    }, {
+      "id" : "_TxrANGWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_Header"
+    }, {
+      "id" : "_TxrANWWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_Encoding"
+    } ]
+  } ]
+}

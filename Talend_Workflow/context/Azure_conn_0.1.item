@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" hide="true" name="Default" xmi:id="_pFq-UGYZEe6ca7xjnY8xlA">
+    <contextParameter comment="" name="Azure_conn_Login" prompt="Azure_conn_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="Monalika" xmi:id="_pFq-UWYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_AdditionalParams" prompt="Azure_conn_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_pFq-UmYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Port" prompt="Azure_conn_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="1433" xmi:id="_pFq-U2YZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Server" prompt="Azure_conn_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="demo-mona.database.windows.net" xmi:id="_pFq-VGYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Schema" prompt="Azure_conn_Schema?" promptNeeded="false" repositoryContextId="" type="id_String" value="Monalika" xmi:id="_pFq-VWYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Database" prompt="Azure_conn_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="Mona_Pradhan_demo" xmi:id="_pFq-VmYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Password" prompt="Azure_conn_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:LqF04yJd/Kbi02zBJN8qaGpukPboe0JWhu4EFHd+RvozpL/+9Gp022lz" xmi:id="_pFq-V2YZEe6ca7xjnY8xlA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Development" xmi:id="_pFq-WGYZEe6ca7xjnY8xlA">
+    <contextParameter comment="" name="Azure_conn_Login" prompt="Azure_conn_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="Monalika" xmi:id="_pFq-WWYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_AdditionalParams" prompt="Azure_conn_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_pFq-WmYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Port" prompt="Azure_conn_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="1433" xmi:id="_pFq-W2YZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Server" prompt="Azure_conn_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="demo-mona.database.windows.net" xmi:id="_pFq-XGYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Schema" prompt="Azure_conn_Schema?" promptNeeded="false" repositoryContextId="" type="id_String" value="Monalika" xmi:id="_pFq-XWYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Database" prompt="Azure_conn_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="Mona_Pradhan_demo" xmi:id="_pFq-XmYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Password" prompt="Azure_conn_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:tpXWplsvoWf2NMZAyh5t7OIWNFXBO9xE4vUavJtnyap23/BF4O+NmTiW" xmi:id="_pFq-X2YZEe6ca7xjnY8xlA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Test" xmi:id="_pFq-YGYZEe6ca7xjnY8xlA">
+    <contextParameter comment="" name="Azure_conn_Login" prompt="Azure_conn_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="Monalika" xmi:id="_pFq-YWYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_AdditionalParams" prompt="Azure_conn_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_pFq-YmYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Port" prompt="Azure_conn_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="1433" xmi:id="_pFq-Y2YZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Server" prompt="Azure_conn_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="demo-mona.database.windows.net" xmi:id="_pFq-ZGYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Schema" prompt="Azure_conn_Schema?" promptNeeded="false" repositoryContextId="" type="id_String" value="Monalika" xmi:id="_pFq-ZWYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Database" prompt="Azure_conn_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="Mona_Pradhan_demo" xmi:id="_pFq-ZmYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Password" prompt="Azure_conn_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:i2/e7fXvjbbXk1iP/rVF6W41q9RDiHa9WtMRvmJngxYXUwPPYA/7sPSl" xmi:id="_pFq-Z2YZEe6ca7xjnY8xlA"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Production" xmi:id="_pFq-aGYZEe6ca7xjnY8xlA">
+    <contextParameter comment="" name="Azure_conn_Login" prompt="Azure_conn_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="Monalika" xmi:id="_pFq-aWYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_AdditionalParams" prompt="Azure_conn_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value="" xmi:id="_pFq-amYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Port" prompt="Azure_conn_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="1433" xmi:id="_pFq-a2YZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Server" prompt="Azure_conn_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="demo-mona.database.windows.net" xmi:id="_pFq-bGYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Schema" prompt="Azure_conn_Schema?" promptNeeded="false" repositoryContextId="" type="id_String" value="Monalika" xmi:id="_pFq-bWYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Database" prompt="Azure_conn_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="Mona_Pradhan_demo" xmi:id="_pFq-bmYZEe6ca7xjnY8xlA"/>
+    <contextParameter comment="" name="Azure_conn_Password" prompt="Azure_conn_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:lLAtG1BmjnNIug7sLEWsXV0M5w3S7ExNWsmBFmXrUURlT938M/3hQZyx" xmi:id="_pFq-b2YZEe6ca7xjnY8xlA"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_914d9665-c8ce-4291-b825-032b0a69ae8b"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>LgczryZazPN8SoG8FYhP6nE39crvgp13kyBm13kt6RncmJ+pHwX2q1ngQv/Av4AmbICrEdGR1y7Z&#13;
+iLAGYp8dMw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_024713cb-abd2-4869-956d-828fbfa45887"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>XhMtoVjdbsA4nqf+sSc7/tcx4qFqcjscJADQDzzIYBEGooNDL5JTama0QvNkpKp7GWhxG6TjEsUw&#13;
+UyV4x8depw==</DigestValue></Reference></SignedInfo><SignatureValue>LSeEbcd/NR7m12QEqlX17KRgruKBNC4gmb95N68Kyrr2vuRM7/J954Gp3gXtWbnTdLlMSrBS5S06&#13;
+3efpmMvPnJU4FnsVRSbf0C2KOr9sOOao4plYd7My6Pm6k07RZqwQMEbNTIuxHf9DrLDfQ2k5sXvR&#13;
+LyMK4Rso/X5KCRlILRHTkFX9p485Bj7aYnyrSLod2Nc4QktctidUXGtu1LH8D4zTU45fV1AyxrYW&#13;
+50Eprz1hiEUkUJzCw3VjnCDB3Q/etxpMX8/xjQwb0zbyExwlEvEmxTajpFpJF8+9afiBxwXSz35U&#13;
+o36cdqJi/PdZ3LBE1AHIH4IsoGxiFsgr8kNctQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_024713cb-abd2-4869-956d-828fbfa45887" Target="#_914d9665-c8ce-4291-b825-032b0a69ae8b"><Timestamp>2023-10-08 20:31:21</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

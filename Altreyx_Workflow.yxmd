@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.3">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="174" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Crime_Data_from_2020_to_Present_4102023.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="DR_NO" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Date Rptd" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="DATE OCC" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="TIME OCC" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="AREA" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="AREA NAME" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Rpt Dist No" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Part 1-2" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Crm Cd" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Crm Cd Desc" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Mocodes" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Vict Age" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Vict Sex" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Vict Descent" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Premis Cd" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Premis Desc" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Weapon Used Cd" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Weapon Desc" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Status" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Status Desc" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Crm Cd 1" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Crm Cd 2" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Crm Cd 3" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Crm Cd 4" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="LOCATION" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="Cross Street" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="LAT" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+            <Field name="LON" size="254" source="File: C:\Users\Mona\Downloads\Crime_Data_from_2020_to_Present_4102023.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="462" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Mona\AppData\Local\Temp\Engine_8160_4eaa6473a98c534484252c212b94f854_\Engine_8160_51c9f112d321fc4e913afaddb8702d9e~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BasicDataProfile.BasicDataProfile">
+        <Position x="318" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Limit_UniqueCount>500000</Limit_UniqueCount>
+          <Limit_UniqueValuesSize>1000</Limit_UniqueValuesSize>
+          <IsMetric value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBasicDataProfile" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="462" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Mona\AppData\Local\Temp\Engine_8160_4eaa6473a98c534484252c212b94f854_\Engine_8160_5dc321e57000f547bb3cde9b46259a13~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="654" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Mona\AppData\Local\Temp\Engine_8160_4eaa6473a98c534484252c212b94f854_\Engine_8160_4a2eb0c534ba254e8154f0be2fea7751~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+        <Position x="306" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UniqueFields>
+            <Field field="DR_NO" />
+          </UniqueFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="474" y="222" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="390" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Mona\AppData\Local\Temp\Engine_8160_4eaa6473a98c534484252c212b94f854_\Engine_8160_8bff01698fa72a49af014adfc2b52767~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Unique" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Duplicates" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Altreyx_Workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="63d45210-8038-47ad-b5ed-cdce8d206ae5" />
+      <Telemetry>
+        <PreviousWorkflowId value="002ec799-c6bc-4256-93af-4187362d792c" />
+        <OriginWorkflowId value="002ec799-c6bc-4256-93af-4187362d792c" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

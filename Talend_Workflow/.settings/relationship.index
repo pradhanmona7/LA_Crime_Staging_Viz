@@ -1,0 +1,98 @@
+[ {
+  "baseItem" : {
+    "id" : "_L_L44GYwEe6W9e596DpmPQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Txh2QGWgEe6_9IPj1MALIw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_pFjpkGYZEe6ca7xjnY8xlA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_Fd-REGWgEe6_9IPj1MALIw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_g6fAUGR-Ee6pzN2eDYTHsA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Fd-REGWgEe6_9IPj1MALIw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_uRGeEGUsEe6YUYGxA9b-hg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-pCxUGU2Ee6YUYGxA9b-hg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_Txh2QGWgEe6_9IPj1MALIw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_n1x5EGUvEe6YUYGxA9b-hg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_pFjpkGYZEe6ca7xjnY8xlA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_Fd-REGWgEe6_9IPj1MALIw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_g6fAUGR-Ee6pzN2eDYTHsA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_v0zM4GRlEe6AC5R8yTAwKA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Fd-REGWgEe6_9IPj1MALIw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

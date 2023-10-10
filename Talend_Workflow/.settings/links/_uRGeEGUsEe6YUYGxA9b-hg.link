@@ -1,0 +1,344 @@
+{
+  "itemId" : "_uRGeEGUsEe6YUYGxA9b-hg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_-pCxUGU2Ee6YUYGxA9b-hg",
+    "parameterList" : [ {
+      "id" : "_-rjSwWU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_Encoding"
+    }, {
+      "id" : "_-rjSwmU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_FieldSeparator"
+    }, {
+      "id" : "_-rjSw2U2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_RowSeparator"
+    }, {
+      "id" : "_-rjSxGU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_Header"
+    }, {
+      "id" : "_-rjSxWU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_File"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_n1x5EGUvEe6YUYGxA9b-hg",
+    "parameterList" : [ {
+      "id" : "_n4Sag2UvEe6YUYGxA9b-hg",
+      "name" : "MySQL_Port"
+    }, {
+      "id" : "_n4SagGUvEe6YUYGxA9b-hg",
+      "name" : "MySQL_Login"
+    }, {
+      "id" : "_n4SahGUvEe6YUYGxA9b-hg",
+      "name" : "MySQL_Database"
+    }, {
+      "id" : "_n4SagWUvEe6YUYGxA9b-hg",
+      "name" : "MySQL_Password"
+    }, {
+      "id" : "_n4SagmUvEe6YUYGxA9b-hg",
+      "name" : "MySQL_AdditionalParams"
+    }, {
+      "id" : "_n4SahWUvEe6YUYGxA9b-hg",
+      "name" : "MySQL_Server"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_Txh2QGWgEe6_9IPj1MALIw",
+    "parameterList" : [ {
+      "id" : "_TxrANGWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_Header"
+    }, {
+      "id" : "_TxrANWWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_Encoding"
+    }, {
+      "id" : "_TxrAM2WgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_RowSeparator"
+    }, {
+      "id" : "_TxrAMmWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_File"
+    }, {
+      "id" : "_TxrAMWWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_FieldSeparator"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_pFjpkGYZEe6ca7xjnY8xlA",
+    "parameterList" : [ {
+      "id" : "_pFq-VGYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Server"
+    }, {
+      "id" : "_pFq-VWYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Schema"
+    }, {
+      "id" : "_pFq-VmYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Database"
+    }, {
+      "id" : "_pFq-UWYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Login"
+    }, {
+      "id" : "_pFq-V2YZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Password"
+    }, {
+      "id" : "_pFq-U2YZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Port"
+    }, {
+      "id" : "_pFq-UmYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_-pCxUGU2Ee6YUYGxA9b-hg",
+    "parameterList" : [ {
+      "id" : "_-rjSx2U2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_Encoding"
+    }, {
+      "id" : "_-rjSyGU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_FieldSeparator"
+    }, {
+      "id" : "_-rjSyWU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_RowSeparator"
+    }, {
+      "id" : "_-rjSymU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_Header"
+    }, {
+      "id" : "_-rjSy2U2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_File"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_n1x5EGUvEe6YUYGxA9b-hg",
+    "parameterList" : [ {
+      "id" : "_X7miFGU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Port"
+    }, {
+      "id" : "_X7miEWU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Login"
+    }, {
+      "id" : "_X7miFWU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Database"
+    }, {
+      "id" : "_X7miEmU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Password"
+    }, {
+      "id" : "_X7miE2U0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_AdditionalParams"
+    }, {
+      "id" : "_X7miFmU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Server"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_Txh2QGWgEe6_9IPj1MALIw",
+    "parameterList" : [ {
+      "id" : "_TxrAOmWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_Header"
+    }, {
+      "id" : "_TxrAO2WgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_Encoding"
+    }, {
+      "id" : "_TxrAOWWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_RowSeparator"
+    }, {
+      "id" : "_TxrAOGWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_File"
+    }, {
+      "id" : "_TxrAN2WgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_FieldSeparator"
+    } ]
+  }, {
+    "contextName" : "Development",
+    "repoId" : "_pFjpkGYZEe6ca7xjnY8xlA",
+    "parameterList" : [ {
+      "id" : "_pFq-XGYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Server"
+    }, {
+      "id" : "_pFq-XWYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Schema"
+    }, {
+      "id" : "_pFq-XmYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Database"
+    }, {
+      "id" : "_pFq-WWYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Login"
+    }, {
+      "id" : "_pFq-X2YZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Password"
+    }, {
+      "id" : "_pFq-W2YZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Port"
+    }, {
+      "id" : "_pFq-WmYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_-pCxUGU2Ee6YUYGxA9b-hg",
+    "parameterList" : [ {
+      "id" : "_-rjSzWU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_Encoding"
+    }, {
+      "id" : "_-rjSzmU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_FieldSeparator"
+    }, {
+      "id" : "_-rjSz2U2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_RowSeparator"
+    }, {
+      "id" : "_-rjS0GU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_Header"
+    }, {
+      "id" : "_-rjS0WU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_File"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_n1x5EGUvEe6YUYGxA9b-hg",
+    "parameterList" : [ {
+      "id" : "_X7miImU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Port"
+    }, {
+      "id" : "_X7miH2U0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Login"
+    }, {
+      "id" : "_X7miI2U0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Database"
+    }, {
+      "id" : "_X7miIGU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Password"
+    }, {
+      "id" : "_X7miIWU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_AdditionalParams"
+    }, {
+      "id" : "_X7miJGU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Server"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_Txh2QGWgEe6_9IPj1MALIw",
+    "parameterList" : [ {
+      "id" : "_TxrARmWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_Header"
+    }, {
+      "id" : "_TxrAR2WgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_Encoding"
+    }, {
+      "id" : "_TxrARWWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_RowSeparator"
+    }, {
+      "id" : "_TxrARGWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_File"
+    }, {
+      "id" : "_TxrAQ2WgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_FieldSeparator"
+    } ]
+  }, {
+    "contextName" : "Production",
+    "repoId" : "_pFjpkGYZEe6ca7xjnY8xlA",
+    "parameterList" : [ {
+      "id" : "_pFq-bGYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Server"
+    }, {
+      "id" : "_pFq-bWYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Schema"
+    }, {
+      "id" : "_pFq-bmYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Database"
+    }, {
+      "id" : "_pFq-aWYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Login"
+    }, {
+      "id" : "_pFq-b2YZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Password"
+    }, {
+      "id" : "_pFq-a2YZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Port"
+    }, {
+      "id" : "_pFq-amYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_-pCxUGU2Ee6YUYGxA9b-hg",
+    "parameterList" : [ {
+      "id" : "_-rjS02U2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_Encoding"
+    }, {
+      "id" : "_-rjS1GU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_FieldSeparator"
+    }, {
+      "id" : "_-rjS1WU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_RowSeparator"
+    }, {
+      "id" : "_-rjS1mU2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_Header"
+    }, {
+      "id" : "_-rjS12U2Ee6YUYGxA9b-hg",
+      "name" : "LA_input_File"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_n1x5EGUvEe6YUYGxA9b-hg",
+    "parameterList" : [ {
+      "id" : "_X7miG2U0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Port"
+    }, {
+      "id" : "_X7miGGU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Login"
+    }, {
+      "id" : "_X7miHGU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Database"
+    }, {
+      "id" : "_X7miGWU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Password"
+    }, {
+      "id" : "_X7miGmU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_AdditionalParams"
+    }, {
+      "id" : "_X7miHWU0Ee6YUYGxA9b-hg",
+      "name" : "MySQL_Server"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_Txh2QGWgEe6_9IPj1MALIw",
+    "parameterList" : [ {
+      "id" : "_TxrAQGWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_Header"
+    }, {
+      "id" : "_TxrAQWWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_Encoding"
+    }, {
+      "id" : "_TxrAP2WgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_RowSeparator"
+    }, {
+      "id" : "_TxrAPmWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_File"
+    }, {
+      "id" : "_TxrAPWWgEe6_9IPj1MALIw",
+      "name" : "lacrimenewinput_FieldSeparator"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_pFjpkGYZEe6ca7xjnY8xlA",
+    "parameterList" : [ {
+      "id" : "_pFq-ZGYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Server"
+    }, {
+      "id" : "_pFq-ZWYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Schema"
+    }, {
+      "id" : "_pFq-ZmYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Database"
+    }, {
+      "id" : "_pFq-YWYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Login"
+    }, {
+      "id" : "_pFq-Z2YZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Password"
+    }, {
+      "id" : "_pFq-Y2YZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_Port"
+    }, {
+      "id" : "_pFq-YmYZEe6ca7xjnY8xlA",
+      "name" : "Azure_conn_AdditionalParams"
+    } ]
+  } ]
+}

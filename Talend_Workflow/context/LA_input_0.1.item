@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Default" xmi:id="_-rjSwGU2Ee6YUYGxA9b-hg">
+    <contextParameter comment="" name="LA_input_Encoding" prompt="LA_input_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_-rjSwWU2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_FieldSeparator" prompt="LA_input_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_-rjSwmU2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_RowSeparator" prompt="LA_input_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_-rjSw2U2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_Header" prompt="LA_input_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_-rjSxGU2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_File" prompt="LA_input_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="/Users/monalikapradhan/Downloads/Open Data - Los Angeles/Crime_Data_from_2020_to_Present_4102023.csv" xmi:id="_-rjSxWU2Ee6YUYGxA9b-hg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Development" xmi:id="_-rjSxmU2Ee6YUYGxA9b-hg">
+    <contextParameter comment="" name="LA_input_Encoding" prompt="LA_input_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_-rjSx2U2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_FieldSeparator" prompt="LA_input_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_-rjSyGU2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_RowSeparator" prompt="LA_input_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_-rjSyWU2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_Header" prompt="LA_input_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_-rjSymU2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_File" prompt="LA_input_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="/Users/monalikapradhan/Downloads/Open Data - Los Angeles/Crime_Data_from_2020_to_Present_4102023.csv" xmi:id="_-rjSy2U2Ee6YUYGxA9b-hg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Production" xmi:id="_-rjSzGU2Ee6YUYGxA9b-hg">
+    <contextParameter comment="" name="LA_input_Encoding" prompt="LA_input_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_-rjSzWU2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_FieldSeparator" prompt="LA_input_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_-rjSzmU2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_RowSeparator" prompt="LA_input_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_-rjSz2U2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_Header" prompt="LA_input_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_-rjS0GU2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_File" prompt="LA_input_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="/Users/monalikapradhan/Downloads/Open Data - Los Angeles/Crime_Data_from_2020_to_Present_4102023.csv" xmi:id="_-rjS0WU2Ee6YUYGxA9b-hg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="Test" xmi:id="_-rjS0mU2Ee6YUYGxA9b-hg">
+    <contextParameter comment="" name="LA_input_Encoding" prompt="LA_input_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8" xmi:id="_-rjS02U2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_FieldSeparator" prompt="LA_input_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;,&quot;" xmi:id="_-rjS1GU2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_RowSeparator" prompt="LA_input_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;" xmi:id="_-rjS1WU2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_Header" prompt="LA_input_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1" xmi:id="_-rjS1mU2Ee6YUYGxA9b-hg"/>
+    <contextParameter comment="" name="LA_input_File" prompt="LA_input_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="/Users/monalikapradhan/Downloads/Open Data - Los Angeles/Crime_Data_from_2020_to_Present_4102023.csv" xmi:id="_-rjS12U2Ee6YUYGxA9b-hg"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_ea1b23c4-ae0a-41e4-a221-c959ec710445"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>qIVHNqemX4mVxiUV8lu//YYC0YfqfL5gfLMh+de1I3uMR43t5HNUBZQjjcxebbCB3i9OUdPvdTmY&#13;
+Q6S3bl4azw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_b489979c-3228-4d76-84f9-f8dddb4bbe3a"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>kLYIc2S9wxLX3v3GFaa0n/DzJHdApf21TWx18H3+IJ9uLU6NoN+elKyd8XXohAuv3phWPO9iHlV4&#13;
+nZMHXTxIfQ==</DigestValue></Reference></SignedInfo><SignatureValue>F5KnSyr6RkGAaFiCWHVjKKCUCj1+wyEtbpuXFnoo714ue+HFd5HjH/RmTFr7ZPuLGlbEPQSwz9lC&#13;
+V7Xr6HkLxlXzaPEgkE8nhxe8Rjg5hl89khSXQ1NdwgZJtTdbOY5M6y+A7ioeX53394wlYsQPbuzp&#13;
+NtNNTehUcoGSQUM2AZdobBjdqauSFVJAtxoLfHrgvzOAfqBspJeyFBxvcQtj6fOLz4lbtxfmggw3&#13;
+50DxvqyJYHp9l8P1Ee/ZazTP51fGIUZ5fCAaA7jmaqywu7fKa9GgR4URvj5aYB6M0xPhvlBwKCTh&#13;
+A7vdHNZbRSs2jE80XX0+7TGEvZbJ0y+I9om2Zg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_b489979c-3228-4d76-84f9-f8dddb4bbe3a" Target="#_ea1b23c4-ae0a-41e4-a221-c959ec710445"><Timestamp>2023-10-07 17:28:50</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
